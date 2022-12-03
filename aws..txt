@@ -1,0 +1,34 @@
+AMazon Athena :- SERVERLESS | Interactive Query service that makes it easy to analyze data directly in Amazon S3
+Amazon Quick sight :- Fully Managed cloud based Buisness Intellegence that deliver easy to understand insights 
+AMazon SNS :- Pub-Sub 
+Amazon SQS :- simple  distributed message queuing service 
+Amazon EC2 :-Elastic Compute Cloud
+Aws cost usage report :- With AWS Cost and Usage Reports (CUR), you can review, itemize, and organize the most comprehensive cost and usage data for your account.
+Aws Lambda :- serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you
+Amazon Aurora :- Fully managed  rds and compatible with mysql and postsql 
+Amazon DynamoDB :- Fast, Flexible NoSQL database service for single digit milliseconf performance at any scale 
+Amazon RDS
+Amazon Redshift :- Fast,Fully managed petabyte-scale data warehouse service that makes it simple and cost effective to efficiently analyze all your data using existing buisness intellegence
+Amzon Budget :- lets us to create  a threshold limit for usage and cost and notify when exceed 
+Amazon Cloudtrail :- Records Api activity in aws account 								
+Amazon Cloudwatch :- monitoring service for aws resources and applications 
+Amazon Config	:- Focous on the Configuration of your aws resources and reports with detailed snapshots on how resources have changed 
+Amazon Trusted Advisor :- Trusted Advisor inspects AWS environment and make reccomendations when opportunities exist to sae money and improve system availablity and performance or help close security gaps
+Amazon CloudFront :- webservice that speeds up distribution of your static and dynamic webcontent 
+Amazon Macie :- data security and data privacy service that use machine learning and pattern matching to discover and protect our sensitive data
+Amazon Shield :- Maximize application availablity and responsiveness with managed DDos protection
+Amazon WAF :-Protect against common web exploits and bots that can affect availablity  compromise security 
+Amazon EFS :- Serverless fully elastic file storage usable with amazon ec2 , lambda , ecs , eks,
+Amazon EBS :- Virtual hard-drive with block level storage volumes for use with ec2 instances
+Amazon S3 & S3 Glacier
+Amazon Snowball
+AWS Transit Gateway - Connect Amazon VPCs, AWS account and on premise network to a single gateway
+AWS GUARD DUTY :- Continuing  Monitoring service that analyze and process data sources
+AWS Inspector :- Vulneriblity  management services that scans aws workloads
+AWS Transit Gateway:- efficient way to establish network connectivity from on-premises to multiple VPCs in different AWS Regions
+AWS Step-functions :-  Serverless orchestration service that lets us integrate with aws lambda functions and other wes services to build buisness critical applications
+AWS Global Accelerator :- 
+
+				AWS CLOUDWATCH METRICS AND LOGS DIFFRENCIATION 
+				AWS SHARED RESPONSIBLIRY MODLE 
+				AWS PILLARS
